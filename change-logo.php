@@ -1,13 +1,14 @@
 <?php
 
 /*
-  Plugin Name: MarcTV login logo
+  Plugin Name: MarcTV Login Logo
   Plugin URI: http://www.marc.tv/marctv-wordpress-plugins/
   Description: Login Logo
-  Version: 1.0
+  Version: 1.1
   Author: MarcDK
   Author URI: http://www.marc.tv
   License: GPL2
+  GitHub Plugin URI: mtoensing/marctv-login-logo
  */
 
 function marctv_login_logo() { ?>
